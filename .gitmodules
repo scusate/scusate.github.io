@@ -1,3 +1,6 @@
 [submodule "demos/backgroundColorChanger"]
 	path = demos/backgroundColorChanger
 	url = https://github.com/scusate/backgroundColorChanger.git
+[submodule "demos/randomHexColorGenerator"]
+	path = demos/randomHexColorGenerator
+	url = https://github.com/scusate/randomHexColorGenerator.git
