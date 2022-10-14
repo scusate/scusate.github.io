@@ -16,3 +16,6 @@
 [submodule "demos/simpleModal"]
 	path = demos/simpleModal
 	url = https://github.com/scusate/simpleModal.git
+[submodule "demos/simpleCounter"]
+	path = demos/simpleCounter
+	url = https://github.com/scusate/simpleCounter.git
