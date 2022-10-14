@@ -28,3 +28,6 @@
 [submodule "demos/imageCarousel"]
 	path = demos/imageCarousel
 	url = https://github.com/scusate/imageCarousel.git
+[submodule "demos/backgroundSlider"]
+	path = demos/backgroundSlider
+	url = https://github.com/scusate/backgroundSlider.git
