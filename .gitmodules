@@ -1,0 +1,3 @@
+[submodule "demos/backgroundColorChanger"]
+	path = demos/backgroundColorChanger
+	url = https://github.com/scusate/backgroundColorChanger.git
