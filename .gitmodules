@@ -7,3 +7,6 @@
 [submodule "demos/hamburgerMenu"]
 	path = demos/hamburgerMenu
 	url = https://github.com/scusate/hamburgerMenu.git
+[submodule "demos/simpleDarkMode"]
+	path = demos/simpleDarkMode
+	url = https://github.com/scusate/simpleDarkMode.git
