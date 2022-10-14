@@ -25,3 +25,6 @@
 [submodule "demos/simpleStopwatch"]
 	path = demos/simpleStopwatch
 	url = https://github.com/scusate/simpleStopwatch.git
+[submodule "demos/imageCarousel"]
+	path = demos/imageCarousel
+	url = https://github.com/scusate/imageCarousel.git
