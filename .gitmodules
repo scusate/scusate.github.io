@@ -10,3 +10,6 @@
 [submodule "demos/simpleDarkMode"]
 	path = demos/simpleDarkMode
 	url = https://github.com/scusate/simpleDarkMode.git
+[submodule "demos/sidebar"]
+	path = demos/sidebar
+	url = https://github.com/scusate/sidebar.git
