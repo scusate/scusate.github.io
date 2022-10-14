@@ -31,3 +31,6 @@
 [submodule "demos/backgroundSlider"]
 	path = demos/backgroundSlider
 	url = https://github.com/scusate/backgroundSlider.git
+[submodule "demos/themeColorChanger"]
+	path = demos/themeColorChanger
+	url = https://github.com/scusate/themeColorChanger.git
