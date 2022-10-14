@@ -13,3 +13,6 @@
 [submodule "demos/sidebar"]
 	path = demos/sidebar
 	url = https://github.com/scusate/sidebar.git
+[submodule "demos/simpleModal"]
+	path = demos/simpleModal
+	url = https://github.com/scusate/simpleModal.git
