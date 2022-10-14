@@ -22,3 +22,6 @@
 [submodule "demos/stickyNavbar"]
 	path = demos/stickyNavbar
 	url = https://github.com/scusate/stickyNavbar.git
+[submodule "demos/simpleStopwatch"]
+	path = demos/simpleStopwatch
+	url = https://github.com/scusate/simpleStopwatch.git
