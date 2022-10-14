@@ -4,3 +4,6 @@
 [submodule "demos/randomHexColorGenerator"]
 	path = demos/randomHexColorGenerator
 	url = https://github.com/scusate/randomHexColorGenerator.git
+[submodule "demos/hamburgerMenu"]
+	path = demos/hamburgerMenu
+	url = https://github.com/scusate/hamburgerMenu.git
