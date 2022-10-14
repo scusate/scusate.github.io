@@ -19,3 +19,6 @@
 [submodule "demos/simpleCounter"]
 	path = demos/simpleCounter
 	url = https://github.com/scusate/simpleCounter.git
+[submodule "demos/stickyNavbar"]
+	path = demos/stickyNavbar
+	url = https://github.com/scusate/stickyNavbar.git
