@@ -34,3 +34,6 @@
 [submodule "demos/themeColorChanger"]
 	path = demos/themeColorChanger
 	url = https://github.com/scusate/themeColorChanger.git
+[submodule "demos/randomQuoteGenerator"]
+	path = demos/randomQuoteGenerator
+	url = https://github.com/scusate/randomQuoteGenerator.git
