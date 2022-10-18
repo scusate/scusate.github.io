@@ -40,3 +40,6 @@
 [submodule "demos/digitalClock"]
 	path = demos/digitalClock
 	url = https://github.com/scusate/digitalClock.git
+[submodule "demos/autoWriteText"]
+	path = demos/autoWriteText
+	url = https://github.com/scusate/autoWriteText.git
