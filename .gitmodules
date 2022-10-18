@@ -37,3 +37,6 @@
 [submodule "demos/randomQuoteGenerator"]
 	path = demos/randomQuoteGenerator
 	url = https://github.com/scusate/randomQuoteGenerator.git
+[submodule "demos/digitalClock"]
+	path = demos/digitalClock
+	url = https://github.com/scusate/digitalClock.git
