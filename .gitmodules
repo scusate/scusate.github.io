@@ -43,3 +43,6 @@
 [submodule "demos/autoWriteText"]
 	path = demos/autoWriteText
 	url = https://github.com/scusate/autoWriteText.git
+[submodule "demos/randomPasswordGenerator"]
+	path = demos/randomPasswordGenerator
+	url = https://github.com/scusate/randomPasswordGenerator.git
